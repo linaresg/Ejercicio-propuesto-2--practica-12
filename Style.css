@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+	background-color: bisque;
+        font-family: 'Agency FB';
+}
+h1{
+    background-color: cyan;
+    color: brown;
+}
+
+#menu {
+    font-family: 'Comic Sans MS';
+    margin: 0px 0px 0px 155px;
+    float: left;
+    font-weight:bold;
+    background-color: chartreuse;
+}
+
+#menu a {
+    display: block;
+    width: 200px;
+    text-align: center;
+    
+}
+
+#menu a:link, #menu a:visited {
+    color: white;
+    text-decoration: none;
+
+}
+
+#menu a:hover {
+    background-color: darkturquoise;
+    color: white;
+}
+
+#detalles {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    color: gray;
+    margin: 0px 255px 0px 255px
+    
+}
